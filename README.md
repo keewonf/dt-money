@@ -13,30 +13,14 @@ O DT Money é um projeto de controle financeiro que permite ao usuário adiciona
 1. Clone o repositório:
 git clone https://github.com/keewonf/dt-money.git
 
-arduino
-Copiar
-Editar
-
 2. Acesse a pasta do projeto:
 cd dt-money
-
-csharp
-Copiar
-Editar
 
 3. Instale as dependências:
 npm install
 
-markdown
-Copiar
-Editar
-
 4. Rode o projeto:
 npm start
-
-markdown
-Copiar
-Editar
 
 ## Tecnologias utilizadas
 - React
