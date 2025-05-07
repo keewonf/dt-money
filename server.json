@@ -1,0 +1,84 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2025-04-13T15:25:24.891Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentaçao",
+      "price": 59,
+      "createdAt": "2025-04-10T15:10:24.891Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel do apartamento",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1200,
+      "createdAt": "2025-04-27T15:10:24.891Z"
+    },
+    {
+      "id": 4,
+      "description": "Computador",
+      "type": "income",
+      "category": "Venda",
+      "price": 5400,
+      "createdAt": "2025-04-15T15:10:24.891Z"
+    },
+    {
+      "description": "Mc Donalds",
+      "price": 32,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-05-05T13:01:45.497Z",
+      "id": 5
+    },
+    {
+      "description": "Mouse",
+      "price": 108.99,
+      "category": "Periféricos",
+      "type": "outcome",
+      "createdAt": "2025-05-05T13:14:14.920Z",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "description": "Teclado",
+      "type": "income",
+      "category": "Venda",
+      "price": 5400,
+      "createdAt": "2025-04-15T15:10:24.891Z"
+    },
+    {
+      "id": 8,
+      "description": "Transação 8",
+      "type": "income",
+      "category": "Categoria B",
+      "price": 180,
+      "createdAt": "2025-05-05T13:01:45.497Z"
+    },
+    {
+      "id": 9,
+      "description": "Transação 9",
+      "type": "outcome",
+      "category": "Categoria A",
+      "price": 190,
+      "createdAt": "2025-05-05T13:01:45.497Z"
+    },
+    {
+      "id": 10,
+      "description": "Transação 10",
+      "type": "income",
+      "category": "Categoria B",
+      "price": 200,
+      "createdAt": "2025-05-05T13:01:45.497Z"
+    }
+  ]
+}
